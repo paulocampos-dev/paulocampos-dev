@@ -8,5 +8,3 @@ I'm passionate about studying and learning math, programming and technologies al
 
 ---
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulocampos.dev@outlook.com)
-[![image](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@paulocampos0)
-
